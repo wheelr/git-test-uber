@@ -1,1 +1,3 @@
 i am still the child.
+
+I was changed in child module.
